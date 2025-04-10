@@ -1,0 +1,10 @@
+{
+    "markdown.extension.toc.omittedFromToc": {
+        "citations.md": [
+            "# Citations Untangled: the Manual (CUM)",
+            "## TOC",
+            "## Style Guide for Citations and Explanatory Notes"
+        ],
+    },
+    "markdown.extension.toc.levels": "1..3"
+}
