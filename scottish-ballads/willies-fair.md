@@ -48,7 +48,7 @@ This is a song about the loss of a lover, who is found to have drowned in a rive
 
 As with many folk ballads, it uses the common metre (alternating iambic tetrametre and iambic trimetre, four lines make a stanza), more specifically a "ballad metre", where the choice of each foot is more flexible [5, 6]. This song uses trochees in place of iambs in the several verses. As a consequence, the melody of this song is *almost* interchangeable with every ballad in the common metre, the smaller lyrical differences and one's lack of imaginations being the only obstacles.
 
-*The Book of Scottish Song* of 1843 [10] is the earliest attestation I can find (on the first page of Google), the song is obviously older than that. Alternative* versions of the song text can be found from [1, 2, 7, 9, 10] and other sources.
+*The Book of Scottish Song* of 1843 [10] is the earliest attestation I can find (on the first page of Google), the song is obviously older than that. Alternative versions of the song text can be found from [1, 2, 7, 9, 10] and other sources.
 
 ### Pronunciation transcription in IPA
 Oh boy this is gonna be hard.
