@@ -40,7 +40,7 @@ In the spirit of the 2nd point in [Purpose](#purpose) and the [Copyright princip
 The references are not used for:
 
 - Preventing link rot: We are not an archive
-- Make sure every sentence is traceable: We are not Wikipedia; read the 1st paragraph under [Purpose](#purpose) again
+- Making sure every sentence is traceable: We are not Wikipedia; read the 1st paragraph under [Purpose](#purpose) again
 
 There is not much of a standard citation style to speak of, but recommended guidelines are available [here](./citations.md), on which I did waste too muh time.
 
