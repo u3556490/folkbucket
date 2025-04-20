@@ -11,8 +11,6 @@ Currently we have the following tune(s):
 | [Jock O'Hazeldean](./jock-o-hazeldean.md) | 250 | 293 |
 | [Willie's Fair](./willies-fair.md) | 206 | 215 |
 
-For each tune, lyrics (with rough phonetic transcription) and music transcription are provided. If there are more notes to make I would make them, but other than that you might find [Mainly Norfolk](https://mainlynorfolk.info) a very useful website for your needs.
+For each tune, lyrics (with rough phonetic transcription) and music transcription are provided. Obviously, music is not my trade (this is a git repo guys) and I am by no means a native English speaker, let alone a Scottish one, so errors here and there are to be expected. The sheet music was made with MuseScore and the MIDI export may include chords, which you may feel free to ignore if not useful. I take Rory and Alex McEwen's albums for reference at the moment and their versions are going to somewhat differ from the one(s) you heard.
 
-The sheet music was made with MuseScore and the MIDI export may include chords, which you may feel free to ignore if not useful.
-
-I take Rory and Alex McEwen's albums for reference at the moment and their versions are going to somewhat differ from the one(s) you heard.
+If there are more notes to make I would make them, but other than that you might find [Mainly Norfolk](https://mainlynorfolk.info) a very useful website for your needs.

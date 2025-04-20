@@ -46,8 +46,8 @@ The song was collected and edited by Sir Walter Scott [1] though the first verse
 Notes:  
 - [n0] to
 - [n1] shall
-- [n2] *sae* means "so" [6], *comely* means "pretty"
-- [n3] *loot*, also spelled *luit*, is the past tense of *lat* ("let") [6], and *fa'* is the abbreviation of "fall"
+- [n2] *sae* means "so" [scots-dict], *comely* means "pretty"
+- [n3] *loot*, also spelled *luit*, is the past tense of *lat* ("let") [scots-dict], and *fa'* is the abbreviation of "fall"
 - [n4] *Jock* is a variant of Jack [7]
 - [n5] woeful (?)
 - [n6] hall
@@ -55,11 +55,11 @@ Notes:
 - [n8] horse suitable for women to ride [9]
 - [n9] all
 - [n10] *kirk* means "church" (obviously), *deck'd* means "decorated" [10], *morning-tide* means "morning time"
-- [n11] *sought* means "searched", *baith* means "both" [6], *bower* is a dwelling [6] or more fittingly a bedroom [11]
+- [n11] *sought* means "searched", *baith* means "both" [scots-dict], *bower* is a dwelling [scots-dict] or more fittingly a bedroom [11]
 - [n12] away
 - [n13] with
 
-The song is about a lady eloping with her true love to avoid an arranged marriage [3]. Once again the song uses ballad metre and you could sing this to House of the Rising Sun if you will.
+The song is about a lady eloping with her true love to avoid an arranged marriage [3]. Once again the song uses ballad metre and you could sing this to House of the Rising Sun if you will; the song can be alternatively analysed to be written in fourteeners (each line having 14 syllables, or if you squint hard enough, two ballad metre lines joined together).
 
 Other versions of the lyrics can be found from [4, 5].
 
@@ -69,9 +69,9 @@ Uh-huh.
 > "Why weep ye by the tide, ladie?  
 > /waɪ wiːp jiː baɪ ðə taɪd 'leɪdi/  
 > Why weep ye by the tide?  
-> /waɪ wiːp jiː baɪ ðə taɪd/  
+> /waɪ wiːp jiː baɪ ðə təɪd/  
 > I'll wed ye tae my youngest son,  
-> /aɪl wɛd jiː [n 1] te maɪ 'jʌŋgəs(t) sən/  
+> /aɪɫ wɛd jiː [n 1] te maɪ 'jʌŋgəs(t) sən/  
 > And you sall be his bride:  
 > /ænd juː ʃəl [n 2] biː hɪz braɪd/  
 > And you sall be his bride, ladie,  
@@ -84,7 +84,7 @@ Uh-huh.
 > /fər dʒɔk ɔ ˈheːzl̩diːn/  
 > 
 > "Now let this wilful grief be done,  
-> /naʊ lɛt ðɪs ˈweːfəl gɾiːf beː dən/  
+> /naʊ lɛt ðɪs ˈweːfəl gɾiːf be dən/  
 > And dry that cheek so pale;  
 > /æn dɾaɪ ðæt tʃiːk soʊ peɪl [n 4]/  
 > Young Frank is chief o' Errington,  
@@ -162,9 +162,10 @@ Once again the singers showed an unexpectedly light accent - very notable in the
 - [3]: "Jock of Hazeldean", All Poetry, ret. 2025-04-11 from https://allpoetry.com/Jock-of-Hazeldean.
 - [4]: "John of Hazelgreen / Jock o’ Hazeldean", Mainly Norfolk, ret. 2025-04-11 from https://mainlynorfolk.info/steeleye.span/songs/johnofhazelgreen.html
 - [5]: "The Book of Scottish Song/Jock o' Hazeldean", Wikisource, ret. 2025-04-11 from https://en.wikisource.org/wiki/The_Book_of_Scottish_Song/Jock_o%27_Hazeldean.
-- [6]: The Online Scots Dictionary, ret. 2025-04-11 from https://www.scots-online.org/dictionary/scots_english.php.
 - [7]: "Jock", Wiktionary, ret. 2025-04-11 from https://en.wiktionary.org/wiki/Jock.
 - [8]: "mettle", Wiktionary, ret. 2025-04-11 from https://en.wiktionary.org/wiki/mettle#English.
 - [9]: "palfrey", Wiktionary, ret. 2025-04-11 from https://en.wiktionary.org/wiki/palfrey.
 - [10]: "deck", Wiktionary, ret. 2025-04-11 from https://en.wiktionary.org/wiki/deck#Etymology_2.
 - [11]: "bower", Wiktionary, ret. 2025-04-11 from https://en.wiktionary.org/wiki/bower.
+
+The reference `[6]` has been replaced with `[scots-dict]`.

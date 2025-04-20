@@ -40,7 +40,7 @@ Explanations for those who only know antipodean English:
 - [n9] pulled
 - [n10] sought, searched [[for]]
 - [n11] the Scots words for "high" and "low" are *heich* and *laich* respectively, but I didn't particularly hear them
-- [n12] there, thereupon [8]; the word is found from [9]
+- [n12] there, thereupon [scots-dict]; the word is found from [9]
 - [n13] *crag* means cleft of a rock [1]
 - [n14] drowned
 
@@ -83,7 +83,7 @@ Oh boy this is gonna be hard.
 > She socht him high, she socht him lay,  
 > /ʃɪ sɔxt hɪm haɪ ʃɪ sɔxt hɪm leː(ɪ)/ [n 6]  
 > She socht him braid and narrow,  
-> /ʃɪ sɔxt hɪm breɪd an ˈnaroʊ/ [n 7]  
+> /ʃɪ sɔxt hɪm breɪd an [n 7] ˈnaroʊ/  
 > Syne in the cliftin' o' a crag  
 > /saɪn ɪn ðə ˈklɪftɪn oʊ ə kɾeɪg/  
 > She's found him drooned in Yarrow.  
@@ -121,6 +121,7 @@ It was not particularly easy to transcribe because the performers used their dis
 - [5] "Common metre", Wikipedia, ret. 2025-04-10 from https://en.wikipedia.org/wiki/Common_metre.
 - [6] "Ballad metre", Oxford Reference, ret. 2025-04-10 from https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095443271.
 - [7] "Willie's Drowned In Yarrow", Scottish Country Dancing Dictionary, ret. 2025-04-10 from https://www.scottish-country-dancing-dictionary.com/willies-drowned-in-yarrow.html.
-- [8] "syne", The Online Scots Dictionary, ret. 2025-04-10 from https://scots-online.org/dictionary/scots_english.php.
 - [9] "Rare Willy drowned in Yarrow", Canasg Music, ret. 2025-04-10 from https://canasg.com/pieces/rare-willy-drowned-in-yarrow/.
 - [10] "The Book of Scottish Song/Willie's drowned in Yarrow", Wikisource, ret. 2025-04-10 from https://en.wikisource.org/wiki/The_Book_of_Scottish_Song/Willie%27s_drowned_in_Yarrow.
+
+The reference `[8]` has been replaced with `[scots-dict]`.
