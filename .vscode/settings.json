@@ -5,6 +5,10 @@
             "## TOC",
             "## Style Guide for Citations and Explanatory Notes"
         ],
+        "shanties-and-sea-songs/index.md": [
+            "# English shanties and song sung at sea",
+            "## Contents"
+        ]
     },
     "markdown.extension.toc.levels": "1..3"
 }
