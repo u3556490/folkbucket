@@ -84,13 +84,13 @@ Uh-huh.
 > /fər dʒɔk ɔ ˈheːzl̩diːn/  
 > 
 > "Now let this wilful grief be done,  
-> /naʊ lɛt ðɪs ˈweːfəl gɾiːf be dən/  
+> /naʊ lɛt ðɪs ˈweːfəɫ gɾiːf be dən/  
 > And dry that cheek so pale;  
 > /æn dɾaɪ ðæt tʃiːk soʊ peɪl [n 4]/  
 > Young Frank is chief o' Errington,  
 > /jaŋ fɾaŋk‿ɪs tʃiːf‿ɔ ˈɛrɪŋtən/  
 > And lord o' Langley-dale;  
-> /æn lɔ(ɾ)d ɔ ˈlæŋlɪdeɪl/  
+> /æn lɔ(ɾ)d ɔ ˈlæŋlɪdeɪɫ/  
 > His step is first in peaceful ha',  
 > /hɪs‿stɛp ɪs fɜːst‿ɪn ˈpiːsfʉl hɑː/ [n 5]  
 > His sword in battle keen!"  
@@ -118,7 +118,7 @@ Uh-huh.
 > /fər dʒɔk‿ɔ ˈheːzl̩diːn/  
 > 
 > The kirk was deck'd at morning-tide,  
-> /ðə kɜː(ɾ)k wɒz dɛkt æt ˈmɔrnɪŋtaɪd [n 11]/  
+> /ðə kɜː(ɾ)k wɒz dɛkt æt ˈmɔrnɪŋtəɪd [n 11]/  
 > The taper glimmer'd fair;  
 > /ðə ˈteɪpə [n 12] ˈglɪmməɾ(d) fɛːɾ/  
 > The priest and bridegroom wait the bride,  

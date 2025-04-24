@@ -28,7 +28,7 @@ Nonetheless, in our settings on land, when we're singing these songs for our enj
 
 ## Songs
 
-> **Aside:**
+> **Aside:**  
 > I left out a couple songs such as Ewan MacColl's [*The Shoals of Herring* (Roud 13642)](https://mainlynorfolk.info/ewan.maccoll/songs/theshoalsofherring.html) because they are too new and are in copyrighted circulation. Look them up elsewhere online.
 
 ### The Leaving of Liverpool
@@ -88,7 +88,7 @@ Remarks:
 - [n2] Davenport's accent sings the *NAME* vowel as a long monophthong instead of a diphthong.
 - [n3] Other versions may say "Lower Frederick Street" instead.
 
-The song is about an Englishman leaving his lover to go to California, presumably during the times of the gold rush [2, 3]. There are alternative versions at [2, 4, 5, 6].
+The song is about an Englishman leaving his lover to go to California, presumably during the times of the gold rush [2, 3]. There are alternative versions at [2, 4, 5, 6]. The metre of the verse *very* loosely falls into a ballad metre.
 
 ##### Music transcription
 
@@ -96,11 +96,11 @@ An alternative version is available at [6]. This is obviously done before, but I
 
 ![image](./music/The%20Leaving%20of%20Liverpool.png)
 
+The different versions of the song are arguably very similar, and if you superimpose them on top of one another, it is quite likely that you can get a nice heterophonic effect.
+
 ##### Notes
 
 - [a] [Paul McNeill](https://www.mainlynorfolk.info/folk/records/paulmcneill.html)'s name seems to be omitted often by commentators, possibly because the audience was clapping very loudly when Rory McEwen introduced him.
-
-### 
 
 ## References
 

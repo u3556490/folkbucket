@@ -55,7 +55,7 @@ More versions of the lyrics can be found at [1, 3, 5, 6, 7, 8] and many more web
 > Yestreen the Queen had four Maries,  
 > /ˈjɛstɾiːn ðə kwiːn had fɔːɾ ˈmɛːɾis [n1]/  
 > The nicht she'll hae but three.  
-> /ðə nɛçt [n2] ʃɪɫ [n3] heː bət θɾiː/  
+> /ðə nɛçt [n2] ʃɪl [n3] heː bət θɾiː/  
 > There was Marie Seton, and Marie Beaton,  
 > /ðɛ wɒz ˈmɛːri ˈsiːʔn̩ [n4] æn ˈmɛːri ˈbiːʔn̩/  
 > And Marie Carmichael and me.  
@@ -82,7 +82,7 @@ More versions of the lyrics can be found at [1, 3, 5, 6, 7, 8] and many more web
 > I charge ye a', ye mariners,  
 > /aɪ tʃaɾdʒ jiː ɒː jiː ˈmaːɾɪnəɾs/  
 > When ye sail o'er the faem,  
-> /wɛn jiː seɪl‿oʊ(ɾ) ðə feːm/  
+> /wɛn jiː seɪɫ‿oʊ(ɾ) ðə feːm/  
 > Let neither my faither nor mither get wit  
 > /lɛt ˈnaɪðəɾ maɪ ˈfeðə(ɾ) nɔɾ ˈmɪðəɾ gɛt wɛt [n7]/  
 > But that I'm coming hame.  
@@ -100,7 +100,7 @@ More versions of the lyrics can be found at [1, 3, 5, 6, 7, 8] and many more web
 Notes:
 - [n1] I'm a bit surprised to see how the distinction between *marry* and *Mary* turns out to be like this (compare [Willie's Fair](./willies-fair.md)); but the first *Marie*'s pronunciation changed to /ɪ/ in the final verse (repeat of the 1st verse, that is). Also a bit interesting is how *four* is not read *fower* as two distinct syllables.
 - [n2] According to [scots-dict] the pronunication should be /nɪçt/ but I don't hear it.
-- [n3] The quality of the *l*, whether it is velarised, is somewhat unclear to me - it should be best to assume velarised in codas immediately following vowels, as in this case.
+- [n3] The quality of the *l*, whether it is velarised, is somewhat unclear to me. The second time around it is more likely a velarised /ɫ/.
 - [n4] Interesting t-glottalisation.
 - [n5] The singer's accent is one where the vowel /ɜ/ is used in *ir*, *er*, *ur* and some *r*s are not pronounced. It should be quite obvious by now. The uncertain *r*s are put in parentheses.
 - [n6] It is incredible to hear the three *e* vowels contrast each other here in this line.
@@ -118,7 +118,7 @@ This is possibly done before (an alternate version available at [8]), but anyway
 Remarks:
 - There are moments where the singer (sort of) anticipates a note by singing it slightly earlier (e.g. the first syllable of *Seton* and *Beaton*) at his artistic discretion, I suppose this does not interfere the correct understanding of how the base melody would look like.
 - The placement of a downbeat on the *-mi-* syllable of *Carmichael* made me have a double take on where the lexical stress should lie.
-- The *mode* is slightly ambiguous in the sense that we don't know whether the fourth degree is augmented for Lydian (E) or perfect for Ionian (Eb). However, the melody suggests that the harmony should be in plain old Bb major (Ionian mode).
+- The *mode* is slightly ambiguous in the sense that we don't know whether the fourth degree is augmented for Lydian (E) or perfect for Ionian (Eb). However, the melody suggests that the harmony should be in plain old Bb major (Ionian mode). Needless to say, this can also be caused by my failure to recognise the right key as I started transcribing.
 
 ## References
 

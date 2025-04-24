@@ -69,7 +69,7 @@ Oh boy this is gonna be hard.
 > For a' the lee lang winter's nicht  
 > /fɔɾ‿ɒː ðə liː laŋ ˈwɪntəz̥ nɛçt/ [n 4]  
 > I'll lie twined o' my marrow.  
-> /aɪl‿laɪ twaɪnd oʊ ma(ɪ) ˈmaɾoʊ/  
+> /aɪɫ‿laɪ twaɪnd oʊ ma(ɪ) ˈmaɾoʊ/  
 > 
 > O cam ye by yon waterside,  
 > /oʊ kam jiː baɪ yɔn ˈwɒtəɾsəɪd/ [n 5]  
