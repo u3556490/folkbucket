@@ -25,7 +25,7 @@ This song exists in an excessive amount of variations and not a single one is a 
 
 Notes:  
 - [n1] highlands
-- [n2] low [scots-dict]
+- [n2] low [scots-dict], the singers did not sing out the /x/ at the end
 - [n3] rode
 - [n4] gallant [4]
 - [n5] good [scots-dict]
@@ -40,6 +40,8 @@ Notes:
 - [n14] empty [scots-dict], also spelled phonetically as "toom" [4]
 
 Other versions of the lyrics can be found at [1, 4, 6, 7, 8]. There is no agreement as to which specific Campbell it was and who murdered him [1, 4, 6, 7, 8], and for something this sinister the melody is rather joyous [a]. A personal bit of commentary is how the relatives of George Campbell are concerned about the work to be done - the meadow, the corn, and the barn to be built; perhaps this reflects the importance of good labour in the olden days?
+
+Each line is apparently consisted of 4 feet (4 downbeats to be precise), with 3 dactyls (strong - weak - weak) followed by a lone stressed syllable. This is visible from the sheet music (see below).
 
 ## Phonetic transcription
 Not feeling very confident about this because only 1 hour's effort was put in.
