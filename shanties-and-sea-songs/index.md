@@ -99,6 +99,7 @@ Remarks for Ewan MacColl's version:
 - Another important observation is how significantly this deviates from what Harry Cox would have delivered, both in melody and harmony.
 - It's an upper mordent on the syllable *shore* (mm. 6) but the ornament is a `C-E-C`. The grace note on *gold* is... very optional.
 - The melody in measure 8 contains a tritone run. Though it is anchored on the G on the downbeat and not too hard to perform, it threw me off when I was trying to figure out the mode (and thus, the harmony) of the song when I tried to learn to sing it.
+- Ignoring the syncopations and grace notes, this is essentially the skeletal melody reusable across all verses as well.
 
 For comparison, Harry Cox's original [12] looks like this:
 
