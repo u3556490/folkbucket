@@ -21,7 +21,7 @@ The version by Patsy Seddon [1] has lyrics most similar to the version sung by t
 > Or cam ye by yon meadow green  
 > Or saw ye my sweet Willie?  
 > 
-> She socht [n10] him high [n11], she socht him lay [n11],  
+> She socht [n10] him high [n11], she socht him laich [n11],  
 > She socht him braid and narrow,  
 > Syne [n12] in the cliftin' o' a crag [n13]  
 > She's found him drooned [n14] in Yarrow.  
@@ -39,7 +39,7 @@ Explanations for those who only know antipodean English:
 - [n8] *twined* means "separated" [1], *marrow* in the sense of "essence"
 - [n9] pulled
 - [n10] sought, searched [[for]]
-- [n11] the Scots words for "high" and "low" are *heich* and *laich* respectively, but I didn't particularly hear them
+- [n11] the Scots words for "high" and "low" are *heich* and *laich* respectively [scots-dict], and though the second word here sounded like *lay* it should be *laich* based on experience.
 - [n12] there, thereupon [scots-dict]; the word is found from [9]
 - [n13] *crag* means cleft of a rock [1]
 - [n14] drowned
@@ -80,8 +80,8 @@ Oh boy this is gonna be hard.
 > Or saw ye my sweet Willie?  
 > /ɔɾ sɒː jiː maɪ swiːt ˈwɪli/  
 > 
-> She socht him high, she socht him lay,  
-> /ʃɪ sɔxt hɪm haɪ ʃɪ sɔxt hɪm leː(ɪ)/ [n 6]  
+> She socht him high, she socht him laich,  
+> /ʃɪ sɔxt hɪm haɪ ʃɪ sɔxt hɪm leː [n 6]/  
 > She socht him braid and narrow,  
 > /ʃɪ sɔxt hɪm breɪd an [n 7] ˈnaroʊ/  
 > Syne in the cliftin' o' a crag  
@@ -95,7 +95,7 @@ Remarks:
 - [n 3] The pronunciations of *gin* and *e'er* are quite unexpected. The tapped /r/ in *e'er* almost had a velar/uvular nature. Another curiosum is the *-ie* or *-y* in the different forms of *marry*, between two consecutive lines the vowel quality seems to have changed.
 - [n 4] Two key features to look at: Firstly, the *r* in *winter* is not tapped, and is dropped much like RP. Secondly, the *-s* of *'s* is voiced by one singer only, so I marked it with a "voiceless /z/".
 - [n 5] The quality of the /ʌ/ in *kam* differs from the previous ones, it's closer to /a/. The *i* diphthong in *waterside* is a bit like /ɐɪ/ but not that open.
-- [n 6] Can't hear the end of the line very clearly.
+- [n 6] The singers missed the /x/ at the end of *laich* (/lex/ [scots-dict]).
 - [n 7] The pronunciation of *braid* has changed.
 
 I have an impression that the McEwens sang in a mild Scots accent (can't be sure where to draw the line between Scots and Scottish English), because they wanted to appeal to a wider audience. This transcription is very rough though, vowel lengths and qualities are uncertain. Raise an issue if you have better ideas.
