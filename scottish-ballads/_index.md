@@ -9,6 +9,7 @@ Currently we have the following tune(s):
 | Title | Roud | Child |
 | :--- | :--- | :--- |
 | [Bonnie George Campbell](./bonnie-george-campbell.md) | 338 | 210
+| [The Bonny Earl o' Moray](./the-bonny-earl-of-moray.md) | 334 | 181
 | [Jock O'Hazeldean](./jock-o-hazeldean.md) | 250 | 293 |
 | [Marie Hamilton](./marie-hamilton.md) | 79 | 173 |
 | [Willie's Fair](./willies-fair.md) | 206 | 215 |
