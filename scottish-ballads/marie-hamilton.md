@@ -123,7 +123,7 @@ Remarks:
 ## References
 
 - [1] "Mary Hamilton / The Four Marys", Mainly Norfolk, ret. 2025-04-19 from https://mainlynorfolk.info/folk/songs/maryhamilton.html.
-- [2] McEwen, A., McEwen R. "Marie Hamilton (Child No. 173)", *Great Scottish Ballads* (1956, Folkways Records), ret. 2025-04-19 from https://www.youtube.com/watch?v=87sdjCspIMc&list=OLAK5uy_lbR2sRFdayl-HkGOO6vzKOPo3dEeKssDk&index=2.
+- [2] McEwen, A., McEwen, R. "Marie Hamilton (Child No. 173)", *Great Scottish Ballads* (1956, Folkways Records), ret. 2025-04-19 from https://www.youtube.com/watch?v=87sdjCspIMc&list=OLAK5uy_lbR2sRFdayl-HkGOO6vzKOPo3dEeKssDk&index=2.
 - [3] "The Child Ballads: 173. Mary Hamilton", Internet Sacred Text Archive, ret. 2025-04-19 from https://sacred-texts.com/neu/eng/child/ch173.htm.
 - [4] "charge", Wiktionary, ret. 2025-04-19 from https://en.wiktionary.org/wiki/charge#Verb.
 - [5] "Mary Hamilton", Wikipedia, ret. 2025-04-19 from https://en.wikipedia.org/wiki/Mary_Hamilton.

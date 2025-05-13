@@ -8,7 +8,7 @@ This song exists in an excessive amount of variations and not a single one is a 
 
 > High upon Hielands [n1] and laich [n2] upon Tay,  
 > Bonnie George Campbell rade [n3] out on a day.  
-> Saddled and bridled, sae calland [n4] tae see,  
+> Saddled and bridled, sae gallant [n4] tae see,  
 > Hame cam his guid [n5] horse, but never cam he.  
 > 
 > Doon [n6] ran his auld mither [n7], greetin' [n8] fu' sair [n9],  
@@ -27,7 +27,7 @@ Notes:
 - [n1] highlands
 - [n2] low [scots-dict], the singers did not sing out the /x/ at the end
 - [n3] rode
-- [n4] gallant [4]
+- [n4] gallant [4], not to be confused with *callant* (youth, boy [scots-dict])
 - [n5] good [scots-dict]
 - [n6] down
 - [n7] mother
@@ -50,8 +50,8 @@ Not feeling very confident about this because only 1 hour's effort was put in.
 > /haɪ əˈpɔn ˈhiːlənz‿æn leː əˈpɔn teː/  
 > Bonnie George Campbell rade out on a day.  
 > /ˈbɔnni dʒɔːdʒ [n 1] ˈkæmbəl reɪd‿ʉt‿ɔn‿ə [n 2] deɪ/    
-> Saddled and bridled, sae calland tae see.  
-> /ˈsædəld‿æn bɾaɪdəl(d) se ˈgælən te siː/  
+> Saddled and bridled, sae gallant tae see.  
+> /ˈsædəld‿æn bɾaɪdəl(d) se ˈgælənt‿te siː/  
 > Hame cam his guid horse, but never cam he.  
 > /heːm keɪm [n 3] hɪs gʉd hɔ(ɾ)s bət ˈnɛvə(ɾ) keɪm hiː/  
 > 
@@ -81,6 +81,8 @@ Notes:
 - [n 5] The *helmEt* vowel could be /ɛ/ too.
 - [n 6] And now the *cam* is pronounced differently...
 
+A different performance by the McEwen brothers is available at [9] where some slight pronunciation variances could be heard.
+
 ## Sheet music transcription
 
 See [7] for an alternative version.
@@ -97,10 +99,11 @@ Notes:
 ## References
 
 - [1] "Bonnie George Campbell / Bonnie James Campbell", Mainly Norfolk, ret. 2025-04-25 from https://mainlynorfolk.info/nic.jones/songs/bonniegeorgecampbell.html.
-- [2] McEwen, A., McEwen R. "Bonnie George Campbell (Child No. 210)", *Great Scottish Ballads* (1956, Folkways Records), ret. 2025-04-25 from https://www.youtube.com/watch?v=ieamyMHvVio.
+- [2] McEwen, A., McEwen, R. "Bonnie George Campbell (Child No. 210)", *Great Scottish Ballads* (1956, Folkways Records), ret. 2025-04-25 from https://www.youtube.com/watch?v=ieamyMHvVio.
 - [3] "plume", Wiktionary, ret. 2025-04-25 from https://en.wiktionary.org/wiki/plume.
 - [4] "Bonnie George Campbell", Wikipedia, ret. 2025-04-25 from https://en.wikipedia.org/wiki/Bonnie_George_Campbell.
 - [5] "shear", Wiktionary, ret. 2025-04-25 from https://en.wiktionary.org/wiki/shear#English.
 - [6] "Bonnie George Campbell", Sangstories, ret. 2025-04-25 from https://sangstories.com/bonnie-george-campbell.
 - [7] "Bonnie George Campbell", Remembering the Old Songs, ret. 2025-04-25 from https://www.lizlyle.lofgrens.org/RmOlSngs/RTOS-GeorgeCampbell.html.
 - [8] "Bonnie George Campbell", Verse Press, ret. 2025-04-25 from https://verse.press/poem/bonnie-george-campbell-4444.
+- [9] McEwen, A., McEwen, R. "Bonnie George Campbell", *Folk Song Today - Songs And Ballads Of England And Scotland* (2011, The Lost Noises Office), ret. 2025-05-13 from https://www.youtube.com/watch?v=4FYPEmL_CV0.

@@ -116,7 +116,7 @@ It was not particularly easy to transcribe because the performers used their dis
 
 - [1] "Rare Willie's Drowned in Yarrow", Mainly Norfolk: English Folk and Other Good Music, ret. 2025-04-10 from https://mainlynorfolk.info/june.tabor/songs/rarewilliedrownedinyarrow.html.
 - [2] "The Child Ballads: 215. Rare Willie Drowned in Yarrow, or, The Water o Gamrie", Internet Sacred Text Archive, ret. 2025-04-10 from https://sacred-texts.com/neu/eng/child/ch215.htm.
-- [3] McEwen, A., McEwen R. "Willie's Fair (Child No. 215)", *Great Scottish Ballads* (1956, Folkways Records), ret. 2025-04-10 from https://www.youtube.com/watch?v=XBLRlyU1mKU.
+- [3] McEwen, A., McEwen, R. "Willie's Fair (Child No. 215)", *Great Scottish Ballads* (1956, Folkways Records), ret. 2025-04-10 from https://www.youtube.com/watch?v=XBLRlyU1mKU.
 - [4] "gin", Wiktionary, ret. 2025-04-10 from https://en.wiktionary.org/wiki/gin#Etymology_5.
 - [5] "Common metre", Wikipedia, ret. 2025-04-10 from https://en.wikipedia.org/wiki/Common_metre.
 - [6] "Ballad metre", Oxford Reference, ret. 2025-04-10 from https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095443271.

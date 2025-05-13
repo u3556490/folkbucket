@@ -41,7 +41,7 @@ The song was collected and edited by Sir Walter Scott [1] though the first verse
 > They sought her baith by bower and ha' [n11];  
 > The ladie was not seen!  
 > She's o'er the Border and awa' [n12]  
-> Wi' [n13] Jock o' Hazeldean.  
+> Wi [n13] Jock o' Hazeldean.  
 
 Notes:  
 - [n0] to
@@ -131,7 +131,7 @@ Uh-huh.
 > /ðə ˈleɪdi wɑz nɒt siːn/  
 > She's o'er the Border and awa'  
 > /ʃɪz‿oʊɾ ðə ˈbɔɾdəɾ æn əˈwɒː/  
-> Wi' Jock o' Hazeldean.  
+> Wi Jock o' Hazeldean.  
 > /wɪ dʒɔk‿ɔ ˈheːzl̩diːn/  
 
 Notes:  
@@ -158,7 +158,7 @@ Once again the singers showed an unexpectedly light accent - very notable in the
 ## References
 
 - [1]: "John of Hazelgreen", Wikipedia, ret. 2025-04-11 from https://en.wikipedia.org/wiki/John_of_Hazelgreen.
-- [2]: McEwen, A., McEwen R. "Jock O'Hazeldean", *Scottish Songs and Ballads* (1957, Folkways Records), ret. 2025-04-10 from https://www.youtube.com/watch?v=XBLRlyU1mKU.
+- [2]: McEwen, A., McEwen, R. "Jock O'Hazeldean", *Scottish Songs and Ballads* (1957, Folkways Records), ret. 2025-04-10 from https://www.youtube.com/watch?v=XBLRlyU1mKU.
 - [3]: "Jock of Hazeldean", All Poetry, ret. 2025-04-11 from https://allpoetry.com/Jock-of-Hazeldean.
 - [4]: "John of Hazelgreen / Jock o’ Hazeldean", Mainly Norfolk, ret. 2025-04-11 from https://mainlynorfolk.info/steeleye.span/songs/johnofhazelgreen.html
 - [5]: "The Book of Scottish Song/Jock o' Hazeldean", Wikisource, ret. 2025-04-11 from https://en.wikisource.org/wiki/The_Book_of_Scottish_Song/Jock_o%27_Hazeldean.
