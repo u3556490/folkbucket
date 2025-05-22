@@ -8,6 +8,7 @@ Currently we have the following tune(s):
 
 | Title | Roud | Child |
 | :--- | :--- | :--- |
+| [Binnorie](./binnorie.md) | 8 | 10
 | [Bonnie George Campbell](./bonnie-george-campbell.md) | 338 | 210
 | [The Bonny Earl o' Moray](./the-bonny-earl-of-moray.md) | 334 | 181
 | [Jock O'Hazeldean](./jock-o-hazeldean.md) | 250 | 293 |
