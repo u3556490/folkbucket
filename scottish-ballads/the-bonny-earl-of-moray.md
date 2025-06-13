@@ -50,7 +50,7 @@ Notes:
 - [n1] *hie* = contraction of *heich*, "high"; *law* is "low". [scots-dict]
 - [n2] where [scots-dict]
 - [n3] *braw* = "brave" [1], *callant* = "youth, boy [scots-dict], fellow [1]"
-- [n4] "look from the Castle Downe". Some other versions may say the last word is *doun* ("down") instead
+- [n4] "look from the Castle Doune". Some other versions may say the last word is *doun* ("down") instead; but the castle at Doune was (and still is) property of the Earls of Moray - no, it isn't Guy de Loimbard [12].
 - [n5] "come sounding through the town"
 - [n6] woe [1]
 - [n7] a more Scots-native spelling would be *whaurfor*
@@ -170,3 +170,4 @@ Notes:
 - [9] "The King, the Queen, her lover and his death: The Bonnie Earl of Moray.", Sing Out!, ret. 2025-05-13 from https://singout.org/the-king-the-queen-her-lover-and-his-death-the-bonnie-earl-of-moray/.
 - [10] "Traditional Scottish Music tune and songbook - The Bonnie Earl Of Murray", Traditional Music Library On Line Tunebook, ret. 2025-05-13 from https://www.traditionalmusic.co.uk/scottish-folk-music/001239.HTM.
 - [11] "The Bonny Earl Of Moray (waltz)", The Session, ret. 2025-05-13 from https://thesession.org/tunes/2550.
+- [12] "Doune Castle", Wikipedia, ret. 2025-06-13 from https://en.wikipedia.org/wiki/Doune_Castle.
