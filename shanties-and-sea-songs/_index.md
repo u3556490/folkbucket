@@ -28,9 +28,6 @@ Nonetheless, in our settings on land, when we're singing these songs for our enj
 
 ## Songs
 
-> **Aside:**  
-> I left out a couple songs such as Ewan MacColl's [*The Shoals of Herring* (Roud 13642)](https://mainlynorfolk.info/ewan.maccoll/songs/theshoalsofherring.html) because they are too new and are in copyrighted circulation. Look them up elsewhere online.
-
 The songs recorded in this repo are:
 
 | Title | Roud  |

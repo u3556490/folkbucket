@@ -15,6 +15,7 @@ Currently we have the following tune(s):
 | [The Lowlands of Holland](./the-lowlands-of-holland.md) | 484 | -
 | [Jock O'Hazeldean](./jock-o-hazeldean.md) | 250 | 293 |
 | [Marie Hamilton](./marie-hamilton.md) | 79 | 173 |
+| [Oh Dear Me](./oh-dear-me.md) | 2585 | -
 | [Willie's Fair](./willies-fair.md) | 206 | 215 |
 
 For each tune, lyrics (with rough phonetic transcription) and music transcription are provided. Obviously, music is not my trade (this is a git repo guys) and I am by no means a native English speaker, let alone a Scottish one, so errors here and there are to be expected. The sheet music was made with MuseScore and the MIDI export may include chords, which you may feel free to ignore if not useful. I take Rory and Alex McEwen's albums for reference at the moment and their versions are going to somewhat differ from the one(s) you heard.
