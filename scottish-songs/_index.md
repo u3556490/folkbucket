@@ -1,4 +1,4 @@
-# Scottish folk ballads
+# Scottish folk songs
 
 Because I find it interesting and the lyrics hard to sing (I'm not Scottish) I figured I needed to make some notes while listening. So here they are.
 

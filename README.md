@@ -3,7 +3,7 @@
 ## Cable of Tontents
 
 - [Shanties and sea songs](./shanties-and-sea-songs/_index.md)
-- [Traditional Scottish folk songs](./scottish-ballads/_index.md)
+- [Traditional Scottish folk songs](./scottish-songs/_index.md)
 
 ## Purpose
 
