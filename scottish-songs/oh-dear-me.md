@@ -97,7 +97,7 @@ This is obviously done before [7], even complete with 3 verses [8]. The chords c
 Remarks:
 - The 1st verse is slightly different, which is understandable - it was meant to be a chorus.
 - When compared to [9] there are places where the use of `IV` chord are different. This is because the notes being accentuated do not seem to conform to the proposed harmony.
-- Likewise, the penultimate chord to each verse should be `ii` instead of `vi` to get more "movement" from stable harmonic functions. But you do you.
+- Likewise, the penultimate chord to each verse should be `ii` instead of the more obvious `vi` to get more "movement" from stable harmonic functions. But you do you.
 
 ## References
 
