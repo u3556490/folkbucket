@@ -99,6 +99,8 @@ Remarks:
 - When compared to [9] there are places where the use of `IV` chord are different. This is because the notes being accentuated do not seem to conform to the proposed harmony.
 - Likewise, the penultimate chord to each verse should be `ii` instead of the more obvious `vi` to get more "movement" from stable harmonic functions. But you do you.
 
+More on the tune's tonality (modality?) at [this page](../ZZZ_addenda/mode-tonality-and-analysis.md#case-study).
+
 ## References
 
 - [1] "The Jute Mill Song", Mainly Norfolk, ret. 2025-06-25 from https://mainlynorfolk.info/folk/songs/thejutemillsong.html.

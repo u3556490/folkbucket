@@ -4,6 +4,7 @@
 
 - [Shanties and sea songs](./shanties-and-sea-songs/_index.md)
 - [Traditional Scottish folk songs](./scottish-songs/_index.md)
+- [Addenda, tonsils, appendices, and other optional thingies](./ZZZ_addenda/)
 
 ## Purpose
 
